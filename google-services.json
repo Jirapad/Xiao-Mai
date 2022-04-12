@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775420426744",
+    "project_id": "xiaomai-bfc29",
+    "storage_bucket": "xiaomai-bfc29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775420426744:android:f0d3aa5faa878fe25fbe0d",
+        "android_client_info": {
+          "package_name": "com.example.xiaomai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775420426744-i15npmtpkp5vqql8gr99s0hee435ceil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfrysM0oDLYOkK8CuZ1hjlaTbR654vRmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775420426744-i15npmtpkp5vqql8gr99s0hee435ceil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
